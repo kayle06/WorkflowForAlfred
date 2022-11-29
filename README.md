@@ -1,2 +1,4 @@
 # FormatImgForExcel
 将剪贴板中的图片链接转换为 Excel 中可插入图片的链接
+# CalculatesTheLengthOfTheStringInTheClipboard.alfredworkflow
+计算剪贴板中字符串的长度
